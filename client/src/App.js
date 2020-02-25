@@ -7,5 +7,4 @@ export const App = () => (
   <ProductList></ProductList>
 );
 
-
 export default App;
